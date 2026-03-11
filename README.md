@@ -17,7 +17,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" alt="react" width="40" height="40"/> </a>  &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  &nbsp;
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> &nbsp;
-  <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> <img src="https://blog.theodo.com/static/bb12ede8ede50acc8cdb447e7dc8bf6e/6fe88/rq-logo.png" alt="react-query" width="70" height="40"/> </a>  &nbsp;
+  <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> <img src="[https://blog.theodo.com/static/bb12ede8ede50acc8cdb447e7dc8bf6e/6fe88/rq-logo.png](https://tanstack.com/images/logos/logo-color-600.png)" alt="react-query" width="70" height="40"/> </a>  &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>  &nbsp;
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  &nbsp;
